@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Portal 1.1", "Assembly-CSharp.csproj", "{F16721CF-86A1-716B-F045-718F6A409AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR Portal 1.1", "Assembly-CSharp-Editor.csproj", "{94C9A90B-ED7F-5D95-589B-35C2008259E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F16721CF-86A1-716B-F045-718F6A409AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16721CF-86A1-716B-F045-718F6A409AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16721CF-86A1-716B-F045-718F6A409AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16721CF-86A1-716B-F045-718F6A409AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C9A90B-ED7F-5D95-589B-35C2008259E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C9A90B-ED7F-5D95-589B-35C2008259E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C9A90B-ED7F-5D95-589B-35C2008259E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C9A90B-ED7F-5D95-589B-35C2008259E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
